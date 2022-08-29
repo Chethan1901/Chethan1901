@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chethan1901
-- 👀 I’m interested in frontend development 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in fullstack development 
+- 🌱 I’m currently learning from CFI
 - 📫 You can contact me through chethanreddy.akkati123@gmail.com
 
 <!---
