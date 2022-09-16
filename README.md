@@ -1,4 +1,4 @@
-<h2>Chethan Reddy Akkati</h2>
+<h2 text-align:center>Chethan Reddy Akkati</h2>
   
   <h3>Fellow at Code for India foundation Cohort of 2022</h3>
 
