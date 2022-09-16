@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Instagram](https://img.shields.io/badge/Instagram-akkatichethanreddy-%23bc2a8d%09)](https://instagram.com/adnan_developer)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-Chethan_Akkati-blue)](https://www.linkedin.com/in/chethanreddyakkati)
-[![Email](https://img.shields.io/badge/Email-chethanreddy.akkati123@gmai.com)](mailto:chethanreddy.akkati123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adnan@code.in-red)](mailto:adnan@code.in)
