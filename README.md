@@ -8,12 +8,8 @@ Chethan1901/Chethan1901 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Chethan1901">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chethan1901=false&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-adnan_developer-%23bc2a8d%09)](https://instagram.com/adnan_developer)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-AdnanAliKhan-blue)](https://www.linkedin.com/in/chethanreddyakkati)
+[![Email](https://img.shields.io/badge/Email-adnan@code.in-red)](mailto:chethanreddy.akkati123@gmail.com)
