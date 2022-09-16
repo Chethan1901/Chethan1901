@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-adnan_developer-%23bc2a8d%09)](https://instagram.com/adnan_developer)
-[![Linkedin](https://img.shields.io/badge/Linked%20in-AdnanAliKhan-blue)](https://www.linkedin.com/in/chethanreddyakkati)
-[![Email](https://img.shields.io/badge/Email-adnan@code.in-red)](mailto:chethanreddy.akkati123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-akkatichethanreddy-%23bc2a8d%09)](https://instagram.com/adnan_developer)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-Chethan Akkati-blue)](https://www.linkedin.com/in/chethanreddyakkati)
+[![Email](https://img.shields.io/badge/Email-chethanreddy.akkati123@gmail.com)](mailto:chethanreddy.akkati123@gmail.com)
