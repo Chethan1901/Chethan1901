@@ -1,7 +1,6 @@
-<h2>Chethan Reddy Akkati
+<h2>Chethan Reddy Akkati</h2>
   
-  <h3>Fellow at Code for India foundation Cohort of 2022
-
+  <h3>Fellow at Code for India foundation Cohort of 2022</h3>
 
 - 👋 Hi, I’m @Chethan1901
 - 👀 I’m interested in fullstack development 
