@@ -1,15 +1,24 @@
-<h2>Chethan Reddy Akkati</h2>
-  
-  <h3>Fellow at Code for India foundation Cohort of 2022</h3>
+<h1 align="center">Hi 👋, I'm Chethan</h1>
+<h3 align="center">A full stack Creative Developer from India, Hyderabad.</h3>
 
-- 👋 Hi, I’m @Chethan1901
-- 👀 I’m interested in fullstack development 
-- 🌱 I’m currently learning from CFI
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan1901&label=Profile%20views&color=0e75b6&style=flat" alt="chethan1901" /> </p>
 
-<!---
-Chethan1901/Chethan1901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethan1901" alt="chethan1901" /></a> </p>
+
+
+<hr />
+
+- 🌱 I’m currently learning **Devops and AWS**
+
+- 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
+
+- 📫 How to reach me **chethanreddy.akkati123@gmail.com**
+
+- Mostly Active on linkedin @chethanreddyakkati
+
+- ⚡ Fun fact **I love Problem Solving**
+
+<hr />
 
 <hr>
 <p align="center">
