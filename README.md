@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chethan</h1>
 <h3 align="center">A full stack Creative Developer from India, Hyderabad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan1901&label=Profile%20views&color=0e75b6&style=flat" alt="chethan1901" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethan1901" alt="chethan1901" /></a> </p>
 
