@@ -7,7 +7,7 @@
 
 <hr />
 
-- 🌱 I’m currently learning **Devops and AWS**
+- 🌱 I’m currently learning **GCP and AWS**
 
 - 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
